@@ -1,11 +1,11 @@
 
 # 👋 Hi there, I'm Manu!
 
-I am a final-year **Bioinformatics** student passionate about the intersection of biology and technology. With skills in **C++, Go, C, JavaScript, HTML, CSS**, and a bit of **Assembly**, I aim to leverage computational tools for biological research and data analysis.
+I am a final-year **Bioinformatics** student passionate about the intersection of biology and technology. With skills in **C++, C, JavaScript, HTML, CSS**, and a bit of **Data Science**, I aim to leverage computational tools for biological research and data analysis.
 
 ## 🛠 Skills
 
-- **Programming Languages**: C++, Go, C, JavaScript, HTML, CSS, Assembly
+- **Programming Languages**: C++, C, JavaScript, HTML, CSS, Assembly
 - **Version Control**: Git, GitHub
 - **Development Environments**: Visual Studio Code, PyCharm
 - **Databases**: MySQL, PostgreSQL
